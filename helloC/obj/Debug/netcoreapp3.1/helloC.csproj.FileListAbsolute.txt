@@ -1,0 +1,14 @@
+D:\code\c\helloC\bin\Debug\netcoreapp3.1\helloC.exe
+D:\code\c\helloC\bin\Debug\netcoreapp3.1\helloC.deps.json
+D:\code\c\helloC\bin\Debug\netcoreapp3.1\helloC.runtimeconfig.json
+D:\code\c\helloC\bin\Debug\netcoreapp3.1\helloC.runtimeconfig.dev.json
+D:\code\c\helloC\bin\Debug\netcoreapp3.1\helloC.dll
+D:\code\c\helloC\bin\Debug\netcoreapp3.1\helloC.pdb
+D:\code\c\helloC\obj\Debug\netcoreapp3.1\helloC.csproj.AssemblyReference.cache
+D:\code\c\helloC\obj\Debug\netcoreapp3.1\helloC.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\c\helloC\obj\Debug\netcoreapp3.1\helloC.AssemblyInfoInputs.cache
+D:\code\c\helloC\obj\Debug\netcoreapp3.1\helloC.AssemblyInfo.cs
+D:\code\c\helloC\obj\Debug\netcoreapp3.1\helloC.csproj.CoreCompileInputs.cache
+D:\code\c\helloC\obj\Debug\netcoreapp3.1\helloC.dll
+D:\code\c\helloC\obj\Debug\netcoreapp3.1\helloC.pdb
+D:\code\c\helloC\obj\Debug\netcoreapp3.1\helloC.genruntimeconfig.cache
